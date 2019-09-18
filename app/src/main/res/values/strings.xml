@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="pl">
+    //Buttons
+    <string name="app_name">DojoDachi</string>
+    <string name="Feed">Feed</string>
+    <string name="Play">Play</string>
+    <string name="Work">Work</string>
+    <string name="Sleep">Sleep</string>
+    //Buttons
+    //LiveStatus
+    <string name="LiveStatus">
+        <attribute>Fullness: %d</attribute>
+        <attribute>Happiness: %d</attribute>
+        <attribute>Meals: %d</attribute>
+        <attribute>Energy: %d</attribute>
+    </string>
+    //LiveStatus
+    //Dachi Response
+    <string name="Response">
+        %s
+    </string>
+    //Dachi Response
+</resources>
